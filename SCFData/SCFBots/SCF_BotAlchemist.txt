@@ -46,6 +46,6 @@ end
 //OnlyIfDestinyLower = Only Accept if destiny item level is lower or equals than source item level +10 and -10
 //======================================================================================
 4
-//BotIndex	OnlyVip		VipMoney	Zen	PCPoints	AcceptOnlySameType	OnlyIfDestinyLower	AcceptAncient	MaxItemLevel
-0		0		0		0	0		1			1			0		15
+//BotIndex	OnlyVip		VipMoney	Zen	PCPoints	AcceptOnlySameType	OnlyIfDestinyLower	AcceptAncient	MaxItemLevel	MaxItemExcCount
+0		0		0		0	0		1			1			0		15		3
 end
