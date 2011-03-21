@@ -770,3 +770,8 @@
 14	136		[SummerEvent] Event End
 14	137		[Halloween PK] Event Start
 14	138		[Halloween PK] Event End
+14	139		[Hide and Seek] %s Appear in our world
+14	140		[Hide and Seek] %s has retreated.
+14	141		[Hide and Seek] %s Catch %s and Get the Reward
+14	142		[Hide and Seek] %s
+14	143		The reward is already taken
