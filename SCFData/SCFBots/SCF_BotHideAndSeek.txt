@@ -26,9 +26,9 @@ end
 end
 
 //Bot Position Info
-//	Map	X	Y	Dir	Message
+//	Map	X1	Y1	X2	Y2	Message
 3
-	2	50	6	2	"Im on devias come and getme"
+	2	50	50	200	200	"Im in Devias!"
 end
 
 //Bot Rewards
