@@ -200,6 +200,7 @@
 . [Server] Item Drop with Socket Options FIX
 . [Server] Vip Extra Exp FIX
 . [Skill] Drain Life FIX
+. =================================== SEASON 6 EPISODE 2 =================================== 
 . [Berserker] Remaked
 . [BotPet] Cant invoke BotPet when you have a Summon Monster FIX
 . [Skill] Elf Summon Monster FIX
