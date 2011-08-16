@@ -1,7 +1,5 @@
 Titans Tech - Custom Features in GAME for players.
-
-+ Lucky Items (Season 6 Episode 2)
-+ Cash Shop (Season 6 Episode 2)
++ New Connect 
 + Bot Pet       - Custimized PETS for players with trade features and skills, its level as an character companion, fully customized.
 + Bot Pet 2     - Same as before, BUT doesnt have items by default or skills, its levels as an character plus evolutions and related, fully customized.
 + Bot Buffer    - You can make your BB buff characters like Elf Guardian using any buff skill, fully customized.
@@ -42,7 +40,7 @@ Titans Tech - Custom Features Server Side for Administrators.
 - 80% of less memory usage than official DS.
 + Titans Tech Join Server, no stuck accounts, md5 or plain password support.
 - 80% of less memory usage than official DS.
-+ Titans Tech Connect Server.
++ Titans Tech Connect Server with Gold Channel support.
 - 80% of less memory usage than official DS.
 + Titans Tech SCFExDB, its replaces EventServer and Ranking Server with other additions.
 
@@ -67,6 +65,7 @@ Titans Tech - Custom Main a.k.a Crystal Edition:
 
 ------------------------------------------------------- MuOnline Features Added on this version -------------------------------------------------------
 + Lucky system from Season 6 Episode 2 fully working, as original.
++ Cash Shop from Season 6 Episode 2 fully working, as original, plus new additions.
 + New Character "Rage Fighter" MORE INFO
 - Rage Righter evolve to Fist Master
 - Rage Righter 11 New Skills 100% Global-Like - with original & Attributes a& special effects/buffs
