@@ -1,6 +1,7 @@
 Titans Tech - Custom Features in GAME for players.
 
 + Lucky Items (Season 6 Episode 2)
++ Cash Shop (Season 6 Episode 2)
 + Bot Pet       - Custimized PETS for players with trade features and skills, its level as an character companion, fully customized.
 + Bot Pet 2     - Same as before, BUT doesnt have items by default or skills, its levels as an character plus evolutions and related, fully customized.
 + Bot Buffer    - You can make your BB buff characters like Elf Guardian using any buff skill, fully customized.
@@ -51,7 +52,7 @@ Titans Tech - Basic client support.
 
 + Latest Global Main with multilanguage support, spanish, english, portuguese and more.
 + Auto Update with Titans Tech Connect Server working.
-+ Play no MOD, easy to hook and CLEAN.
++ No MOD, easy to hook and CLEAN.
 
 
 
