@@ -784,3 +784,7 @@
 14	150		The battle for this map it's over with a draw
 14	151		That map belongs to Duprian's family!
 14	152		That map belongs to Valiant's family!
+14	153		[VipSystem] MuPoints Balance: %d
+14	154		XMas event Active! Extra EXP:+%d DROP:+%d
+14	155		[RainItemEvent] Event Start
+14	156		[RainItemEvent] Event End
