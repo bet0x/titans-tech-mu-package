@@ -1,0 +1,1 @@
+Comment or Discomment the lines in each SCF_Connect.ini in your GS's folders for apply the configs of S6 or S5E4
