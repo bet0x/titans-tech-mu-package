@@ -1,6 +1,6 @@
 //============================================================================
 //Drop Settings: Chaos Card Master
-//www.darksideofmu.com
+//www.titanstech.com
 //============================================================================
 //Lottery Types:
 //0	=	Chaos Card Regular (14,54)

@@ -1,6 +1,6 @@
 ///============================================================================
 //Drop Settings: Illusion Temple monsters
-//www.darksideofmu.com
+//www.titanstech.com
 //============================================================================
 //lvl/dur	=	if item is a potion, that option becomes durability
 //============================================================================
