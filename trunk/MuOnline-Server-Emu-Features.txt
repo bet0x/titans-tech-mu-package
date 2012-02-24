@@ -9,6 +9,7 @@ Titans Tech - Custom Features in GAME for players.
 + Custom Quests     - You can add custom quests to your server, fully customized.
 + Custom Vip System - Accounting system for VIP, fully customized.
 + Custom Reset System  - Custom reset with LOT OF FEATURES, fully customized.
++ Custom Master Reset System  - Custom reset with LOT OF FEATURES, fully customized.
 + Marry System         - Marry system, unique and stable, fully customized with married NPC's.
 + Gens Close Map Event - Battle of two factions, duprian and vanert for the control of an map, fully customized.
 + Blue Event           - White rabbit event, fully customized.
@@ -17,10 +18,11 @@ Titans Tech - Custom Features in GAME for players.
 + Halloween Event      - You get an nice event for halloween with lot of fun and items, fully customized.
 + Happy Hour Event     - More exp and drop for your players, fully customized.
 + Hit and Up Event     - Hit and up is an event make to fast level characters, from 1 to 2 or more levels by kill, fully customized.
++ Rain Event	       - Lets rain some from the any place, fully customized.
 + Sky Event            - Play on the sky, the most old and nice event in mu, fully customized.
 + Summer Attack Event  - The invasion of Fire Flame Ghost from Webzen with extra features.
-+ Swamp Attack Event   - Swap official event from Webzen with extra features.
-+ XMas Event           - Santa's Map with NPC's and items.
++ Swamp Attack Event   - Swap official event from Webzen with extra features + Customs.
++ XMas Event           - Santa's Map with NPC's and items + a lot of things.
 + Lucky Penny System   - exchange Coin of Luck items.
 + Anti-AFK System      - Prevent long AFK in maps.
 + Anti-Flood System    - Prevent attackers from DDoS.
@@ -29,7 +31,6 @@ Titans Tech - Custom Features in GAME for players.
 
 Titans Tech - Custom Features Server Side for Administrators.
 
-+ Links Checker System - Auto reconnect of services for GameServer.
 + Customized event timers - Like EventManagement.dat but for all other events.
 + Renamed Shops for easy configuration and events item bags.
 + Dedicated folders for events, shop, monsters and each config.
@@ -41,9 +42,8 @@ Titans Tech - Custom Features Server Side for Administrators.
 - 80% of less memory usage than official DS.
 + Titans Tech Connect Server with Gold Channel support.
 - 80% of less memory usage than official DS.
-+ Titans Tech SCFExDB, its replaces EventServer and Ranking Server with other additions.
 
-AND over 2000 config variables so you can custom your server (basic global like configuration is by default).
+AND over 5000 config variables so you can custom your server (basic global like configuration is by default).
 
 Titans Tech - Basic client support.
 
@@ -60,9 +60,10 @@ Titans Tech - Custom Main a.k.a Crystal Edition:
 + Custom Jewels
 + Custom Items (With Custom Glow)
 + Custom Wings
-+ Custom VIP Shop
++ Custom Ingame VIP Shop
 
 ------------------------------------------------------- MuOnline Features Added on this version -------------------------------------------------------
++ Rage Righter Skill Tree
 + Lucky system from Season 6 Episode 2 fully working, as original.
 + Cash Shop from Season 6 Episode 2 fully working, as original, plus new additions.
 + New Mu Helper from webzen.
@@ -105,6 +106,7 @@ Titans Tech - Custom Main a.k.a Crystal Edition:
 + Dark Lord Pets - 100% working
 + Halloween event
 + Ancient Sets - All original (including S5 Ep4 AND S6 EP2), Set Options
++ Cherry Blossom Quest - with rewards
 + Chaos Castle - with Master level
 + Items upgrade up to +15 - NEW GLOW FOR +14/+15 Items
 + All item options up to +28
@@ -126,15 +128,14 @@ Titans Tech - Custom Main a.k.a Crystal Edition:
 + Moss The Gambler - original.
 + Duel System & Duel Arena
 + Volcano Map
-+ Cherry Blossom Quest - with rewards
 + Santa's Village
 + New Sets, Weapond & Shileds - Up to Season 5 Episode 4
 + New Maps' extensions & Mobs for them - Aida/Kanturu/Swamp of Calmness/Raklion
 + Loren Market Map
 + New small Wings system for Low level Characters
 + All new skill icons - Up to Season 5 Episode 4
-+ Gents System - Full & original HOT
-+ Gents Quest System - Full & original HOT
++ Gens System - Full & original HOT
++ Gens Quest System - Full & original HOT
 + Imperial Guardian Fort Event - Full & original HOT
 + Double Goer (Doppleganger) Event - Full & original HOT
 + Kalima 1-7
