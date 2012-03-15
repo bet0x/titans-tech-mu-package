@@ -118,11 +118,19 @@ end
 //52) Increase Dmg Absorbtion Percent
 //60) Increase Experience Rate (20 = +20x in %)
 //61) Increase Drop Rate (1 = 1000*1/100 = 10)
+//62) 
+//63) 
 //64) Increase Increase Damage Percentage
+//65) 
+//66) Increase Maximum AG (percent)
+//67) Increase Maximum SD (percent)
+//68) 
 //===================================================================================================
 //	Group	Id	Type1	Rise1	Type2	Rise2	Time
 //===================================================================================================
 2
+	13	41	2	20	0	0	0
+
 	13	43	6	150	0	0	1800
 	13	44	6	200	7	150	1800
 	13	45	8	0	0	0	1800

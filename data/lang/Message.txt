@@ -633,6 +633,8 @@
 13	60		Test Kantru 34
 13	61		Test Kantru 35
 13	62		Hangs the stone to be unable to use individual store.
+13	63		[%s] Map has been won and remain open for %d minutes
+13	64		[%s] Map will close in %d minutes
 14	0		[HappyHour] Event Start, Extra Exp:%d, Extra Drop:%d
 14	1		[HappyHour] Event End
 14	2		[BlueEvent] Event Start
@@ -747,7 +749,8 @@
 14	112		The Evil Santa and his Evil Snowmans have invaded us!
 14	113		The Evil Santa has retreated.
 14	114		Only one present per day!
-14	115		SCFMT TEAM: bet0x, IcaruS, DaRKav14	116		You can not change warehouse number right now!
+14	115		SCFMT TEAM: bet0x, IcaruS, DaRKav
+14	116		You can not change warehouse number right now!
 14	117		[WarehouseEx] Number: %d
 14	118		Extra Warehouse is dissabled!
 14	119		Extra Warehouse is only for vip users!
@@ -755,17 +758,17 @@
 14	121		Max ware is %d, you have %d extra ware and you try to buy %d ware
 14	122		You buy %d warehouses, now you have %d ware
 14	123		You need %d vipmoney for buy %d warehouse
-14	124		You must wait in this room before event start.
-14	125		You cant enter, Max players exceed.
-14	126		Event doesnt start yet.
-14	127		This event is only for Masters.
-14	128		You need kill all monsters first.
-14	129		'C' Portal opened!
-14	130		Swamp of Peace Event started!
-14	131		Swamp of Peace Event Success!
-14	132		Swamp of Peace Event Failed.
-14	133		Swamp of Peace Event will close in 30 seconds.
-14	134		[Swamp Event] will close after %d minute(s)
+14	124		Medusa Forces preparing to attack Swamp of Peace!
+14	125		Swamp of Peace attack in %d minute(s)
+14	126		This Map is only for Masters.
+14	127		You will be warped outside in %d seconds
+14	128		You must wait in this room before event start.
+14	129		%s has defeated Medusa!
+14	130		[Swamp] Prepare for the next Wave!
+14	131		[Swamp] Another army is here!
+14	132		[Swamp] Medusas Forces Attacked: %s
+14	133		Protection of Swamp of Peace Successful!
+14	134		Protection of Swamp of Peace Failed!
 14	135		[SummerEvent] Event Start
 14	136		[SummerEvent] Event End
 14	137		[Halloween PK] Event Start
@@ -788,3 +791,10 @@
 14	154		XMas event Active! Extra EXP:+%d DROP:+%d
 14	155		[RainItemEvent] Event Start
 14	156		[RainItemEvent] Event End
+14	157		Your time its over... race ends, try it again.
+14	158		You cant use warp/tracemarry under the race, race its over.
+14	159		You need to be at least level %d for participate in race.
+14	160		You need to have %d zen for participate in race.
+14	161		You need to have %d vip money for participate in race.
+14	162		You need to be VIP Player for participate in race.
+14	163		You finish the race, your time was %d seconds.

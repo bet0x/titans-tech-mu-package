@@ -4662,232 +4662,48 @@ end
 426	53	30	39	93	6 // Chaos Castle13  => Chaos Castle 7
 427	53	30	41	84	6 // Chaos Castle14    => Chaos Castle 7
 end
-2
-441	56	5	198	198	-1 // Sapi-Unus  => Swamp
-441	56	5	207	202	-1 // Sapi-Unus  => Swamp
-441	56	5	198	208	-1 // Sapi-Unus  => Swamp
-441	56	5	198	214	-1 // Sapi-Unus  => Swamp
-441	56	5	173	215	-1 // Sapi-Unus  => Swamp
-441	56	5	173	222	-1 // Sapi-Unus  => Swamp
-442	56	5	210	196	-1 // Sapi-Duo  => Swamp
-442	56	5	220	192	-1 // Sapi-Duo  => Swamp
-442	56	5	220	217	-1 // Sapi-Duo  => Swamp
-442	56	5	224	217	-1 // Sapi-Duo  => Swamp
-442	56	5	216	177	-1 // Sapi-Duo  => Swamp
-442	56	5	230	173	-1 // Sapi-Duo  => Swamp
-442	56	5	218	171	-1 // Sapi-Duo  => Swamp
-442	56	5	227	169	-1 // Sapi-Duo  => Swamp
-441	56	5	220	184	-1 // Sapi-Unus  => Swamp
-441	56	5	226	184	-1 // Sapi-Unus  => Swamp
-442	56	5	231	197	-1 // Sapi-Duo  => Swamp
-442	56	5	189	226	-1 // Sapi-Duo  => Swamp
-442	56	5	201	228	-1 // Sapi-Duo  => Swamp
-447	56	5	195	222	-1 // Thunder Napin  => Swamp
-447	56	5	180	218	-1 // Thunder Napin  => Swamp
-447	56	5	177	223	-1 // Thunder Napin  => Swamp
-447	56	5	190	233	-1 // Thunder Napin  => Swamp
-447	56	5	199	234	-1 // Thunder Napin  => Swamp
-442	56	5	207	234	-1 // Sapi-Duo  => Swamp
-447	56	5	214	234	-1 // Thunder Napin  => Swamp
-447	56	5	224	234	-1 // Thunder Napin  => Swamp
-447	56	5	231	235	-1 // Thunder Napin  => Swamp
-447	56	5	238	233	-1 // Thunder Napin  => Swamp
-447	56	5	236	238	-1 // Thunder Napin  => Swamp
-447	56	5	239	227	-1 // Thunder Napin  => Swamp
-441	56	5	203	198	-1 // Sapi-Unus  => Swamp
-441	56	5	233	204	-1 // Sapi-Unus  => Swamp
-441	56	5	229	202	-1 // Sapi-Unus  => Swamp
-441	56	5	236	201	-1 // Sapi-Unus  => Swamp
-442	56	5	228	194	-1 // Sapi-Duo  => Swamp
-442	56	5	235	194	-1 // Sapi-Duo  => Swamp
-441	56	5	226	210	-1 // Sapi-Unus  => Swamp
-441	56	5	237	210	-1 // Sapi-Unus  => Swamp
+//=========================================================================================							
+//=========================== Swamp of Calmness - Monster - ===============================						
+//=========================================================================================							
+//Mob	Map	Radio	CordX	CordY	CordX2	CordY2	Dir	Quant	Name	
+1
+//Fire Land
+442	56	30	66	179	71	230	-1	20	//Fire Avy
+442	56	30	39	224	62	240	-1	15	//Fire Avy
+442	56	30	39	200	50	205	-1	5	//Fire Avy
+449	56	30	11	220	30	240	-1	15	//Fire Four Pin
+449	56	30	12	201	30	215	-1	8	//Fire Four Pin
+444	56	30	8	178	40	195	-1	20	//Fire Knight
+
+//Destroyed Castle
+443	56	30	22	44	51	55	-1	20	//Ice Avy
+443	56	30	5	42	15	55	-1	10	//Ice Avy
+447	56	30	38	10	68	34	-1	20	//Electric Four Pin
+445	56	30	5	8	30	32	-1	20	//Ice Knight
+
+//Grave Yard
+441	56	30	209	9	237	18	-1	10	//Poison Avy
+443	56	30	209	9	237	18	-1	5	//Ice Avy
+
+442	56	30	200	23	238	53	-1	20	//Fire Avy
+448	56	30	200	23	238	53	-1	10	//Poison Four Pin
+
+447	56	30	230	68	241	95	-1	9	//Electric Four Pin
+449	56	30	230	68	241	95	-1	6	//Fire Four Pin
+
+444	56	30	212	77	230	95	-1	3	//Fire Knight
+445	56	30	212	77	230	95	-1	3	//Ice Knight
+446	56	30	212	77	230	95	-1	4	//Poison Knight
+
+//Tree Land
+441	56	30	196	194	209	206	-1	10	//Poison Avy
+441	56	30	168	214	182	225	-1	10	//Poison Avy
+441	56	30	216	169	226	189	-1	15	//Poison Avy
+448	56	30	226	189	240	214	-1	20	//Poison Four Pin
+448	56	30	187	224	206	237	-1	20	//Poison Four Pin
+446	56	30	228	228	240	240	-1	15	//Poison Knight
 end
-4
-557	56	5	154	37	-1 // Sapi Queen  => Swamp
-557	56	5	157	43	-1 // Sapi Queen  => Swamp
-557	56	5	168	41	-1 // Sapi Queen  => Swamp
-557	56	5	179	41	-1 // Sapi Queen  => Swamp
-557	56	5	192	41	-1 // Sapi Queen  => Swamp
-557	56	5	226	149	-1 // Sapi Queen  => Swamp
-557	56	5	217	150	-1 // Sapi Queen  => Swamp
-557	56	5	219	138	-1 // Sapi Queen  => Swamp
-557	56	5	207	146	-1 // Sapi Queen  => Swamp
-557	56	5	197	145	-1 // Sapi Queen  => Swamp
-557	56	5	105	232	-1 // Sapi Queen  => Swamp
-557	56	5	112	228	-1 // Sapi Queen  => Swamp
-557	56	5	114	211	-1 // Sapi Queen  => Swamp
-557	56	5	103	207	-1 // Sapi Queen  => Swamp
-557	56	5	9	83	-1 // Sapi Queen  => Swamp
-557	56	5	20	82	-1 // Sapi Queen  => Swamp
-557	56	5	13	100	-1 // Sapi Queen  => Swamp
-557	56	5	21	102	-1 // Sapi Queen  => Swamp
-558	56	5	150	15	-1 // Ice Napin  => Swamp
-558	56	5	154	11	-1 // Ice Napin  => Swamp
-558	56	5	159	19	-1 // Ice Napin  => Swamp
-558	56	5	162	11	-1 // Ice Napin  => Swamp
-558	56	5	180	112	-1 // Ice Napin  => Swamp
-558	56	5	191	113	-1 // Ice Napin  => Swamp
-558	56	5	187	127	-1 // Ice Napin  => Swamp
-558	56	5	184	135	-1 // Ice Napin  => Swamp
-558	56	5	109	174	-1 // Ice Napin  => Swamp
-558	56	5	115	165	-1 // Ice Napin  => Swamp
-558	56	5	121	177	-1 // Ice Napin  => Swamp
-558	56	5	129	183	-1 // Ice Napin  => Swamp
-558	56	5	45	125	-1 // Ice Napin  => Swamp
-558	56	5	41	111	-1 // Ice Napin  => Swamp
-558	56	5	32	117	-1 // Ice Napin  => Swamp
-558	56	5	40	118	-1 // Ice Napin  => Swamp
-558	56	5	56	115	-1 // Ice Napin  => Swamp
-558	56	5	61	106	-1 // Ice Napin  => Swamp
-558	56	5	61	91	-1 // Ice Napin  => Swamp
-559	56	5	124	19	-1 // Shadow Master  => Swamp
-559	56	5	127	28	-1 // Shadow Master  => Swamp
-559	56	5	134	27	-1 // Shadow Master  => Swamp
-559	56	5	139	32	-1 // Shadow Master  => Swamp
-559	56	5	171	146	-1 // Shadow Master  => Swamp
-559	56	5	181	145	-1 // Shadow Master  => Swamp
-559	56	5	185	137	-1 // Shadow Master  => Swamp
-559	56	5	192	152	-1 // Shadow Master  => Swamp
-559	56	5	130	165	-1 // Shadow Master  => Swamp
-559	56	5	138	172	-1 // Shadow Master  => Swamp
-559	56	5	135	197	-1 // Shadow Master  => Swamp
-559	56	5	135	213	-1 // Shadow Master  => Swamp
-559	56	5	16	129	-1 // Shadow Master  => Swamp
-559	56	5	12	119	-1 // Shadow Master  => Swamp
-559	56	5	24	115	-1 // Shadow Master  => Swamp
-559	56	5	10	110	-1 // Shadow Master  => Swamp
-559	56	5	52	99	-1 // Shadow Master  => Swamp
-559	56	5	42	90	-1 // Shadow Master  => Swamp
-561	56	5	60	77	-1 // Medusa  => Swamp
-561	56	5	96	167	-1 // Medusa  => Swamp
-561	56	5	135	230	-1 // Medusa  => Swamp
-561	56	5	204	114	-1 // Medusa  => Swamp
-561	56	5	140	48	-1 // Medusa  => Swamp
-end
-2
-444	56	5	222	10	-1 // Shadow Pawn  => Swamp
-444	56	5	228	10	-1 // Shadow Pawn  => Swamp
-444	56	5	224	14	-1 // Shadow Pawn  => Swamp
-444	56	5	217	24	-1 // Shadow Pawn  => Swamp
-444	56	5	229	27	-1 // Shadow Pawn  => Swamp
-444	56	5	209	29	-1 // Shadow Pawn  => Swamp
-444	56	5	206	39	-1 // Shadow Pawn  => Swamp
-444	56	5	236	56	-1 // Shadow Pawn  => Swamp
-444	56	5	236	68	-1 // Shadow Pawn  => Swamp
-444	56	5	236	80	-1 // Shadow Pawn  => Swamp
-444	56	5	232	88	-1 // Shadow Pawn  => Swamp
-444	56	5	221	88	-1 // Shadow Pawn  => Swamp
-444	56	5	217	82	-1 // Shadow Pawn  => Swamp
-445	56	5	234	9	-1 // Shadow Knight  => Swamp
-445	56	5	232	15	-1 // Shadow Knight  => Swamp
-445	56	5	237	14	-1 // Shadow Knight  => Swamp
-445	56	5	232	21	-1 // Shadow Knight  => Swamp
-445	56	5	225	28	-1 // Shadow Knight  => Swamp
-445	56	5	213	27	-1 // Shadow Knight  => Swamp
-445	56	5	205	33	-1 // Shadow Knight  => Swamp
-445	56	5	206	44	-1 // Shadow Knight  => Swamp
-445	56	5	236	63	-1 // Shadow Knight  => Swamp
-445	56	5	236	74	-1 // Shadow Knight  => Swamp
-445	56	5	236	86	-1 // Shadow Knight  => Swamp
-445	56	5	216	86	-1 // Shadow Knight  => Swamp
-448	56	5	206	49	-1 // Ghost Napin  => Swamp
-448	56	5	232	68	-1 // Ghost Napin  => Swamp
-448	56	5	231	82	-1 // Ghost Napin  => Swamp
-448	56	5	221	84	-1 // Ghost Napin  => Swamp
-448	56	5	236	90	-1 // Ghost Napin  => Swamp
-448	56	5	220	27	-1 // Ghost Napin  => Swamp
-448	56	5	210	34	-1 // Ghost Napin  => Swamp
-445	56	5	230	74	-1 // Shadow Knight  => Swamp
-448	56	5	233	77	-1 // Ghost Napin  => Swamp
-445	56	5	220	80	-1 // Shadow Knight  => Swamp
-445	56	5	226	89	-1 // Shadow Knight  => Swamp
-444	56	5	232	11	-1 // Shadow Pawn  => Swamp
-444	56	5	206	30	-1 // Shadow Pawn  => Swamp
-444	56	5	233	72	-1 // Shadow Pawn  => Swamp
-end
-2
-443	56	5	36	44	-1 // Sapi-Tres  => Swamp
-443	56	5	41	44	-1 // Sapi-Tres  => Swamp
-443	56	5	36	51	-1 // Sapi-Tres  => Swamp
-443	56	5	40	49	-1 // Sapi-Tres  => Swamp
-443	56	5	24	49	-1 // Sapi-Tres  => Swamp
-443	56	5	10	44	-1 // Sapi-Tres  => Swamp
-443	56	5	10	50	-1 // Sapi-Tres  => Swamp
-443	56	5	13	47	-1 // Sapi-Tres  => Swamp
-443	56	5	50	44	-1 // Sapi-Tres  => Swamp
-443	56	5	52	11	-1 // Sapi-Tres  => Swamp
-443	56	5	51	27	-1 // Sapi-Tres  => Swamp
-443	56	5	58	20	-1 // Sapi-Tres  => Swamp
-443	56	5	68	15	-1 // Sapi-Tres  => Swamp
-443	56	5	69	23	-1 // Sapi-Tres  => Swamp
-443	56	5	39	20	-1 // Sapi-Tres  => Swamp
-443	56	5	41	26	-1 // Sapi-Tres  => Swamp
-445	56	5	27	53	-1 // Shadow Knight  => Swamp
-445	56	5	32	53	-1 // Shadow Knight  => Swamp
-445	56	5	29	43	-1 // Shadow Knight  => Swamp
-445	56	5	9	47	-1 // Shadow Knight  => Swamp
-445	56	5	8	34	-1 // Shadow Knight  => Swamp
-445	56	5	9	22	-1 // Shadow Knight  => Swamp
-445	56	5	12	11	-1 // Shadow Knight  => Swamp
-445	56	5	19	11	-1 // Shadow Knight  => Swamp
-445	56	5	27	23	-1 // Shadow Knight  => Swamp
-445	56	5	33	23	-1 // Shadow Knight  => Swamp
-445	56	5	54	15	-1 // Shadow Knight  => Swamp
-445	56	5	55	24	-1 // Shadow Knight  => Swamp
-445	56	5	42	14	-1 // Shadow Knight  => Swamp
-445	56	5	62	16	-1 // Shadow Knight  => Swamp
-446	56	5	16	15	-1 // Shadow Look  => Swamp
-446	56	5	24	10	-1 // Shadow Look  => Swamp
-446	56	5	27	11	-1 // Shadow Look  => Swamp
-446	56	5	20	30	-1 // Shadow Look  => Swamp
-446	56	5	13	32	-1 // Shadow Look  => Swamp
-446	56	5	18	45	-1 // Shadow Look  => Swamp
-446	56	5	45	27	-1 // Shadow Look  => Swamp
-446	56	5	52	20	-1 // Shadow Look  => Swamp
-446	56	5	23	23	-1 // Shadow Look  => Swamp
-end
-2
-443	56	5	68	192	-1 // Sapi-Tres  => Swamp
-443	56	5	68	202	-1 // Sapi-Tres  => Swamp
-443	56	5	68	215	-1 // Sapi-Tres  => Swamp
-443	56	5	67	235	-1 // Sapi-Tres  => Swamp
-443	56	5	86	220	-1 // Sapi-Tres  => Swamp
-443	56	5	46	203	-1 // Sapi-Tres  => Swamp
-443	56	5	42	229	-1 // Sapi-Tres  => Swamp
-443	56	5	52	232	-1 // Sapi-Tres  => Swamp
-443	56	5	42	218	-1 // Sapi-Tres  => Swamp
-443	56	5	68	224	-1 // Sapi-Tres  => Swamp
-448	56	5	57	203	-1 // Ghost Napin  => Swamp
-448	56	5	34	231	-1 // Ghost Napin  => Swamp
-448	56	5	48	227	-1 // Ghost Napin  => Swamp
-448	56	5	57	237	-1 // Ghost Napin  => Swamp
-448	56	5	68	230	-1 // Ghost Napin  => Swamp
-448	56	5	82	223	-1 // Ghost Napin  => Swamp
-448	56	5	41	200	-1 // Ghost Napin  => Swamp
-448	56	5	29	235	-1 // Ghost Napin  => Swamp
-448	56	5	26	226	-1 // Ghost Napin  => Swamp
-448	56	5	34	192	-1 // Ghost Napin  => Swamp
-449	56	5	12	182	-1 // Blaze Napin     => Swamp
-449	56	5	19	182	-1 // Blaze Napin     => Swamp
-449	56	5	10	192	-1 // Blaze Napin     => Swamp
-449	56	5	14	224	-1 // Blaze Napin     => Swamp
-449	56	5	20	233	-1 // Blaze Napin     => Swamp
-449	56	5	30	186	-1 // Blaze Napin     => Swamp
-449	56	5	25	209	-1 // Blaze Napin     => Swamp
-449	56	5	46	234	-1 // Blaze Napin     => Swamp
-448	56	5	83	219	-1 // Ghost Napin  => Swamp
-449	56	5	20	211	-1 // Blaze Napin     => Swamp
-449	56	5	30	230	-1 // Blaze Napin     => Swamp
-449	56	5	85	223	-1 // Blaze Napin     => Swamp
-449	56	5	23	212	-1 // Blaze Napin     => Swamp
-449	56	5	23	205	-1 // Blaze Napin     => Swamp
-449	56	5	20	207	-1 // Blaze Napin     => Swamp
-449	56	5	28	188	-1 // Blaze Napin     => Swamp
-449	56	5	28	183	-1 // Blaze Napin     => Swamp
-448	56	5	33	184	-1 // Ghost Napin  => Swamp
-443	56	5	50	202	-1 // Sapi-Tres  => Swamp
-end
+
 0
 450	3	0	179	126	1 // Cherry Blossom Spirit  => Noria
 451	3	0	179	129	3 // Cherry Blossom Tree    => Noria
