@@ -51,6 +51,6 @@ end
 //Bot Rewards (Top 10 or less)
 //iDays = 0 Means forever
 4
-//	Zen	VipMoney	ItemType	ItemIndex	iLevel	iOpt	iLuck	iSkill	iDur	iExc	iAnc	iSock1	iSock2	iSock3	iSock4	iSock5	iJOH	iDays
-	200000	0		7		1		0	0	0	0	0	0	0	0	0	0	0	0	0	3
+//	Zen	VipMoney	ItemType	ItemIndex	iLevel	iOpt	iLuck	iSkill	iDur	iExc	iAnc	iSock1	iSock2	iSock3	iSock4	iSock5	iJOH	iDays	ForeverFFFESerial
+	200000	0		7		1		0	0	0	0	0	0	0	0	0	0	0	0	0	3	0
 end
