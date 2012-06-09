@@ -8,22 +8,23 @@
 //MinZ28	=	Minimum JOL option (0 to 7)
 //IsAnc		=	Has to be ancient item (1 ON/0 OFF)
 //IsExe		=	Is excellent item
-//IsExcellent	=	Has to be excellent item (1 ON/0 OFF)
+//MaxExc	=	Max Excellent option count
 //IsSok		=	Is soket item
 //MinSok	=	Minimum Sokets count (0 to 5)
+//MaxSok	=	Max socket slot count (0 = off)
 //SuccessRate	=	% out of 100 for success
 //======================================================================
-//Type	Index	MinLvl	MaxLvl	IsLuck	IsSkill	MinZ28	IsAnc	IsExc	MaxExc	IsSok	MinSok	Success
+//Type	Index	MinLvl	MaxLvl	IsLuck	IsSkill	MinZ28	IsAnc	IsExc	MaxExc	IsSok	MinSok	MaxSok	Success
 1
-14	200	0	15	0	0	1	0	0	0	0	0	40
-14	201	0	15	1	0	1	0	0	0	0	0	20
-14	202	0	15	1	0	1	0	0	0	0	0	10
-14	203	0	15	1	0	1	0	0	0	0	0	10
-14	204	0	15	1	0	1	0	0	0	0	0	15
-14	205	0	15	1	0	1	0	0	0	0	0	15
-14	206	0	15	1	0	1	0	0	0	0	0	10
-14	207	0	15	0	0	1	0	0	0	0	0	40
-14	208	0	15	1	0	1	0	0	0	0	0	10
+14	200	0	15	0	0	1	0	0	0	0	0	0	40
+14	201	0	15	1	0	1	0	0	0	0	0	0	20
+14	202	0	15	1	0	1	0	0	0	0	0	0	10
+14	203	0	15	1	0	1	0	0	0	0	0	0	10
+14	204	0	15	1	0	1	0	0	0	0	0	0	15
+14	205	0	15	1	0	1	0	0	0	0	0	0	15
+14	206	0	15	1	0	1	0	0	0	0	0	0	10
+14	207	0	15	0	0	1	0	0	0	0	0	0	40
+14	208	0	15	1	0	1	0	0	0	0	0	0	10
 end
 
 //======================================================================
