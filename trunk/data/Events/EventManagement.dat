@@ -82,6 +82,8 @@ end
 // 12 Hide And Seek Event
 // 13 Gens Close Map Event
 // 14 Rain Item Event
+// 15 Titan Rank System
+// 16 Titan Lottery Event
 // Month = -1
 // Day = -1 (The event happens every day)
 // DayofWeek (Remember that the first day would be Sunday) (if put -1, happens every day). 
