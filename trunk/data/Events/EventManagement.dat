@@ -84,6 +84,7 @@ end
 // 14 Rain Item Event
 // 15 Titan Rank System
 // 16 Titan Lottery Event
+// 17 Questions And Answers
 // Month = -1
 // Day = -1 (The event happens every day)
 // DayofWeek (Remember that the first day would be Sunday) (if put -1, happens every day). 
