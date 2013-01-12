@@ -30,6 +30,7 @@ Systems:
 * Custom VIP						- Accounting system for VIP, fully customized + VIPShop Bag (Command).
 * Duel							
 
+
 Events:
 
 * Battle Soccer			
